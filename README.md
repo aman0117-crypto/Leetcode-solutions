@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+## Hash Table
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
