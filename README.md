@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,8 +45,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
