@@ -10,15 +10,12 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        if not root:
-            return None
-        Q=[root]
-        while Q:
-            node=Q.pop(0)
-            if node.left:
-                Q.append(node.left)
-            if node.right:
-                Q.append(node.right)
+        def f(node):
+            if not node:
+                return 
+            left=f(node.left)
+            right=f(node.right)
             node.left,node.right=node.right,node.left
+        f(root)
         return root
         
