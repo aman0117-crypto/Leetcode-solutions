@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0113-path-sum-ii) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
