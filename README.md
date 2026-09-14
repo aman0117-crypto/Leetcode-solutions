@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Memoization
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
