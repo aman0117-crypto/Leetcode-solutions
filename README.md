@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0835-image-overlap](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0835-image-overlap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
