@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
