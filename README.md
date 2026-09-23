@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Greedy
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [0147-insertion-sort-list](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
 <!---LeetCode Topics End-->
