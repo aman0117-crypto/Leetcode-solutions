@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Two Pointers
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -92,11 +94,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0147-insertion-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
