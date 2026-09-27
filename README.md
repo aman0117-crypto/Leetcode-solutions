@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1096-brace-expansion-ii](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1096-brace-expansion-ii](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aman0117-crypto/Leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
