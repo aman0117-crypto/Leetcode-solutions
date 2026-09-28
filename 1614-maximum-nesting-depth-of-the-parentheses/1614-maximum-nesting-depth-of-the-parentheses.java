@@ -1,23 +1,24 @@
 class Solution {
     public int maxDepth(String s) {
-        Stack<Character> stack=new Stack<>();
+        int count=0;
         int result=0;
         for(int i=0;i<s.length();i++){
             if(s.charAt(i)=='('){
-                stack.push(s.charAt(i));
-                if(stack.size()>result){
-                    result=stack.size(); 
+                count++;
+                if(count>result){
+                    result=count; 
                 }
             }
             else if(s.charAt(i)==')'){
-                stack.pop();
+                count--;
             }
             else{
                 continue;
             }
         }
         return result;
+        
     }
 }
 
-//Brute force: TC-O(n), SC-O(n)
+//Optimal Approach: TC-O(n), SC-O(1)
